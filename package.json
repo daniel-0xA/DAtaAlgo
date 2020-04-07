@@ -1,0 +1,16 @@
+{
+  "name": "DAtaAlgo",
+  "version": "1.0.0",
+  "description": "Some utilities for geting raw data and trying to predict.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "gathering",
+    "prediction"
+  ],
+  "author": "Daniel Sp0ris",
+  "license": "MIT"
+}
